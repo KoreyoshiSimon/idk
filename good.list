@@ -17,6 +17,8 @@ DOMAIN-SUFFIX,openshop.com.hk
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,bgp.he.net
 
 IP-CIDR,91.108.56.0/22,no-resolve
