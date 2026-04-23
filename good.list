@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,timtokcdn-eu.com
+DOMAIN-SUFFIX,tiktokcdn-eu.com
 DOMAIN-SUFFIX,ocsp.digicert.cn
 
 IP-CIDR,91.108.56.0/22,no-resolve
