@@ -34,6 +34,8 @@ DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokcdn-eu.com
 DOMAIN-SUFFIX,ocsp.digicert.cn
+DOMAIN-SUFFIX,doubleverify.com
+DOMAIN-SUFFIX,facebook.com
 
 IP-CIDR,91.108.56.0/22,no-resolve
 IP-CIDR,91.108.4.0/22,no-resolve
