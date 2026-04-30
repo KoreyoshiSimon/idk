@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,tiktokcdn-eu.com
 DOMAIN-SUFFIX,doubleverify.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sentry.io
 
 IP-CIDR,91.108.56.0/22,no-resolve
 IP-CIDR,91.108.4.0/22,no-resolve
