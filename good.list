@@ -39,6 +39,14 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,adobe.net
+DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,yfamilys.com
+DOMAIN-SUFFIX,google-analytics.com
 
 IP-CIDR,91.108.56.0/22,no-resolve
 IP-CIDR,91.108.4.0/22,no-resolve
